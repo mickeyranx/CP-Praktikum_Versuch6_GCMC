@@ -3,7 +3,7 @@ Für Windows:
 2.        Quellcode
 --------------------------------------------
 -In gcmc_vs.cpp sind alle Methoden mit der main methode enthalten
--gcmc_plotting enthält den python-skript zu der Generierung unserer Plots
+-"gcmc_plotting.py" enthält den Python-Skript zur Generierung unserer Plots (funktioniert ohne Daten nicht)
 
 ------------------------------------------------
 1. Starten einer Simulation ohne Kompilierung
