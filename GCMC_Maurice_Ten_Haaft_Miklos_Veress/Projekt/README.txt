@@ -2,7 +2,7 @@ Für Windows:
 --------------------------------------------
 2.        Quellcode
 --------------------------------------------
--Im "src" Ordner ist unser Quellcode gcmc_vs.cpp dort sind alle Methoden enthalten
+-In gcmc_vs.cpp sind alle Methoden mit der main methode enthalten
 -gcmc_plotting enthält den python-skript zu der Generierung unserer Plots
 
 ------------------------------------------------
