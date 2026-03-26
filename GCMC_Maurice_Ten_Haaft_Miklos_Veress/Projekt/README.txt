@@ -21,7 +21,7 @@ Für Windows:
 -Jede Simulation generiert eine "senkrechte.dat" und "waagrechte.dat" Datei für die Visualisierung mit 2dvis.py
      !!!Diese Dateien werden von meheren separaten Simulationen überschrieben und sind nicht kompatibel mit parallelen runs!!!
 -Eine Datei entählt in den ersten 6 Zeilen die Simulationsparameter danach den Header und schließlich die Daten N N_h N_v
--Alle anderen Observablen und Mittelwerte wurden im Python file berechnet
+-Alle anderen Observablen und Mittelwerte wurden im Python-File berechnet
 
 --------------------------------------------
 3. Kompilieren über Visual Studio
